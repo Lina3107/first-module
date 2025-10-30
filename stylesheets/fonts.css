@@ -1,0 +1,7 @@
+@font-face {
+  font-family: "Pease Sans";
+  src: url("../fonts/peace-sans.ttf") format("truetype"),
+    url("../fonts/peacesans.woff") format("woff");
+  font-style: normal;
+  font-weight: 400;
+}
